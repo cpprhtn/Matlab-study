@@ -1,4 +1,4 @@
-% Function
+% Function 사용하기
 a = [1 2 3; 4 5 6; 7 8 9; 10 11 12]
 
 b = reshape(a, 1, 12)
@@ -24,3 +24,4 @@ h = length(a)
 i = a'
 
 j = reshape(i, 1, 12)
+
