@@ -1,4 +1,6 @@
 # Matlab-study
+
+목적 : AI
  
 참고한 링크
 
