@@ -1,8 +1,8 @@
 # Matlab-study
 
-¸ñÀû : AI
+ê³µë¶€ ëª©ì  : AIì— ì‚¬ìš©
  
-Âü°íÇÑ ¸µÅ©
+ì°¸ê³  ìë£Œ
 
 - https://kr.mathworks.com/help/matlab/getting-started-with-matlab.html?s_tid=CRUX_lftnav
 
