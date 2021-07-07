@@ -1,0 +1,1 @@
+[a, b, c] = textread('C:\Users\cpprh\Desktop\test.txt', '%u %u %c', 'headerlines', 1, 'delimiter', ',')
